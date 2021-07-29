@@ -1,0 +1,115 @@
+{
+	"basics": {
+		"name": "Bharat Kumawat",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kucp1055@iiitkota.ac.in",
+		"phone": "8963059406",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "",
+		"location": {
+			"address": "Plot no. 49/G-1, Ganesh Vihar II, Opp. Royal Green, Sirsi Road",
+			"postalCode": "302012",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "BharatK91199555",
+				"url": "https://twitter.com/BharatK91199555>"
+			},
+			{
+				"network": "Github",
+				"username": "bharatk1707",
+				"url": "https://github.com/bharatk1707/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Bharat Kumawat",
+				"url": "https://www.linkedin.com/in/bharat-kumawat-b52463197/"
+			},
+			{
+				"network": "Instagram",
+				"username": "_bebharat",
+				"url": "https://www.instagram.com/_bebharat/"
+			}
+		]
+	},
+	"work": [{
+		"company": "ARC ROBOTICS",
+		"position": "Web Developer",
+		"website": "https://arcrobotics.vercel.app/",
+		"startDate": "",
+		"endDate": " ",
+		"summary": "Worked as web developer for creating the official website of robotics club of IIIT Kota ",
+		"highlights": ["Add Highlights", "Your work details"],
+
+        "company": "E-cell, IIT Bombay",
+		"position": "",
+		"website": "",
+		"startDate": "July-2020",
+		"endDate": "Dec-2020",
+		"summary": "Worked as campus ambassador at E-cell of IIT Bombay. ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "Incognito Club, IIIT Kota",
+		"position": "G-Sec",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "General Secretary of Incognito Club, official cultural club of IIIT Kota",
+		"highlights": [],
+        
+        "organization": "Arc Robotic Club, IIIT Kota",
+		"position": "Core Member",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "Come member of Arc Robotics, official robotics club of IIIT Kota",
+		"highlights": [],
+
+        "organization": "Fit India Club, IIIT Kota",
+		"position": "Core Member",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "Core member of Fit India CLub, official fitness club of IIIT Kota",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology, Kota",
+		"area": "Engineering",
+		"studyType": "B-tech",
+		"startDate": "2019",
+		"endDate": "2023",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "Bootstrap", "C/C++", "OOPS", "git", "SEO"]
+	}],
+	"interests": [{
+        "name": "Drama",
+		"keywords": ["Stage-play"],
+		"name": "Sports",
+		"keywords": ["Football", "Volleyball"]
+        
+
+	}],
+	"references": []
+}
